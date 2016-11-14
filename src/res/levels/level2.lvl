@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Level>
+<map width="20" height="15">000222200000022311222000000022001220000000022001220000000002001220000000002001222000111100001222000100100001112000100100000012111100100000012100000100000012100000100000012111100100001112200100100001022220100100001022220100100001222220100100001022220100100001022200100100001111111100100000000000000400</map>
+<waves>
+        <wave>
+              <enemy id="1" count="4" delay="2"></enemy>
+              <enemy id="2" count="5" delay="3"></enemy>
+        </wave>
+        <wave>
+              <enemy id="1" count="3" delay="2"></enemy>
+              <enemy id="2" count="5" delay="1"></enemy>
+              <enemy id="2" count="1" delay="3"></enemy>
+        </wave>
+        <wave>
+              <enemy id="1" count="3" delay="2"></enemy>
+              <enemy id="2" count="5" delay="1"></enemy>
+              <enemy id="2" count="4" delay="1"></enemy>
+        </wave>
+    </waves>
+</Level>
